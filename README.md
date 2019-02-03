@@ -1,1 +1,3 @@
 # Stock-Management
+
+The GUI Application will take details and save it to an access database for future retreivel...
